@@ -1,3 +1,7 @@
+---
+layout: page-full-width 
+title: Test Solving Pdes Tutorial
+---
 This tutorial is automatically generated from the file test/tutorials//TestSolvingPdesTutorial.hpp.
 Note that the code is given in full at the bottom of the page.
 
